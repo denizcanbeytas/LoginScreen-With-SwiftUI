@@ -5,7 +5,9 @@
 - User login and user registration can be done.
 - Firebase was used for user data.
 - CocoaPods was used to implement Firebase into the project.
+- Use LoginScreen.xcworkspace when opening the project.
 - Designed for my CryptoTracker App project.
+
 #
 ![](https://img.shields.io/badge/Things_To_Do-02569B?style=for-the-badge&logo=s&logoColor=white)
 
@@ -13,9 +15,9 @@
 #
 ![](https://img.shields.io/badge/Image_From_App-02569B?style=for-the-badge&logo=s&logoColor=white)
  <p>
-  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-3.png" width="300" title="hover text">
-  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-2.png" width="300" title="hover text">
-  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-1.png" width="300" title="hover text">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-3.png" width="250" title="hover text">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-2.png" width="250" title="hover text">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-1.png" width="250" title="hover text">
 </p>
 
 
