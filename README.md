@@ -16,7 +16,9 @@ An sub project for my CryptoTracker App
 #
 ![](https://img.shields.io/badge/Image_From_App-FA7343?style=for-the-badge&logo=s&logoColor=white)
  <p>
-  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-1.png">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-1.png" width="350" title="hover text">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-2.png" width="350" title="hover text">
+  <img src="https://github.com/denizcanbeytas/LoginScreen-With-SwiftUI/blob/main/SC-3.png" width="350" title="hover text">
 </p>
 
 
