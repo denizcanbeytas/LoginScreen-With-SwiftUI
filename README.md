@@ -3,6 +3,10 @@
 ![](https://img.shields.io/badge/About_Project-02569B?style=for-the-badge&logo=s&logoColor=white)
 
 - Login Screen will be added to CrptoTrackerApp project
+- Firebase was used for user registrations.
+- Firebase was implemented in the project using CocoaPods.
+- The logo cannot be used without permission.
+
 #
 ![](https://img.shields.io/badge/Image_From_App-02569B?style=for-the-badge&logo=s&logoColor=white)
  <p>
